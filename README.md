@@ -82,7 +82,4 @@ Darshan S V
 
 -GitHub: https://github.com/Darshanshrinandi
 
--Email: your_email@example.com
-
-
-
+-Email: darshanshrinandi@gmail.com
